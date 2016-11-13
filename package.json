@@ -1,0 +1,28 @@
+{
+  "name": "cloths-app",
+  "version": "1.0.0",
+  "description": "cloths-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lironbar/cloths-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lironbar/cloths-app/issues"
+  },
+  "homepage": "https://github.com/lironbar/cloths-app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10",
+    "sass": "^0.5.0"
+  }
+}
